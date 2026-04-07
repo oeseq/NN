@@ -1,4 +1,4 @@
-# NN_2022a_1.1
+# NN
 NN application for Windows
 1. Download executable file to Windows personal computer (laptop or desktop) folder of choice.
 2. Double click on executable to install application at default folder or folder of choice. Administration rights are required.
